@@ -1,6 +1,9 @@
 # Ai4MathResources
 
 
+https://docs.google.com/document/u/0/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/mobilebasic?pli=1&_immersive_translate_auto_translate=1
+
+
 This is a preliminary list of resources for those looking to get into the field of AI for Math, put together as part of the AI to Assist Mathematical Reasoning  workshop (the official workshop proceedings can be found in the link here ). It is not complete, but hopefully once distributed, it can continue to grow. 
 这是为那些希望进入数学人工智能领域的人准备的初步资源列表，作为人工智能辅助数学推理研讨会的一部分（官方研讨会论文集可以在这里的链接中找到）。它并不完整，但希望一旦分发，它可以继续增长。
 Please feel free to add comments or suggestions to this document. To add comments or suggestions (or to correct any existing text) you may either use the "comment" feature of Google Docs, or you may type directly into the document in suggestion mode. Everyone who views this should have comment/suggestion access. I will review and approve suggestions. 
